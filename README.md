@@ -1,2 +1,4 @@
 # WinEdt
-WinEdt-related issues and discussions
+This is a public forum for WinEdt-related issues and discussions...
+
+More to come!
