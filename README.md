@@ -1,8 +1,9 @@
-<h1><span><img src="https://github.com/WinEdt-Team/WinEdt/assets/34773801/f39a42be-5de8-43d6-889f-f7ee81cf556f" width="60" height="40" style="vertical-align:bottom;margin:0px 0px">  WinEdt <a href="https://github.com/WinEdt-Team/WinEdt/discussions" > discussions </a> </span></h1>
-This is a public forum for WinEdt-related issues and discussions...
+<h1><span><img src="https://github.com//Alex-Simonic/WinEdt/assets/34773801/f489947f-9fe0-4e69-ba4c-8d3975fca623" width="60" height="40" style="vertical-align:bottom;margin:0px 0px">  WinEdt </span></h1>
+
+For WinEdt-related issues and discussions use this [public forum](https://github.com/WinEdt-Team/WinEdt/discussions)
 
 More to come!
 
 <!--
-![WinEdt](https://github.com/WinEdt-Team/WinEdt/assets/34773801/f39a42be-5de8-43d6-889f-f7ee81cf556f)
+![WinEdt](https://github.com/Alex-Simonic/WinEdt/assets/34773801/f489947f-9fe0-4e69-ba4c-8d3975fca623)
 -->
